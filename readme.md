@@ -16,13 +16,13 @@ A clean, responsive single-page web section dedicated to the perfect chocolate c
 📁 Project Structure
 ~~~
 ├── index.html      # Main markup structure (Heading, Intro, Recipe Details, Ingredients List)
-└── style.css       # Clean, production-ready stylesheets
+└── style2.css       # Clean, production-ready stylesheets
 ~~~
 
 🚀 Quick Start
 1. Clone or download this repository.
 2. Open `index.html` directly in any modern web browser (Chrome, Firefox, Safari, Edge).
-3. To customize colors, open `style.css` and update.
+3. To customize colors, open `style2.css` and update.
 
 📝 License
 This project is open-source and free to use and open for contributions.
